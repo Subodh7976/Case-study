@@ -1,0 +1,2220 @@
+{
+    "plan": [
+        [
+            "Product Development"
+        ],
+        [
+            "Market Analysis",
+            "Market Trends",
+            "Market Research"
+        ],
+        [
+            "Sales Forecasting"
+        ],
+        [
+            "Strategic Planning",
+            "Business Decisions"
+        ],
+        [
+            "Business Development"
+        ],
+        [
+            "Data Analysis",
+            "Data Analysis Methods"
+        ],
+        [
+            "Vendor Negotiation",
+            "Vendor Contracts",
+            "Vendor Management"
+        ],
+        [
+            "Distribution Management",
+            "Distribution Networks"
+        ],
+        [
+            "Regulatory Documentation"
+        ],
+        [
+            "Project Reporting",
+            "Progress Reporting"
+        ],
+        [
+            "Team Supervision",
+            "Employee Supervision",
+            "Employee Management"
+        ],
+        [
+            "Customer Service",
+            "Customer Service Principles"
+        ],
+        [
+            "Technical Project Management"
+        ],
+        [
+            "Financial Systems",
+            "Financial Information Systems",
+            "Financial Systems Development"
+        ],
+        [
+            "Technical Source Data"
+        ],
+        [
+            "Data Specifications"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Scientific Models"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Analysis",
+            "Statistical Tests",
+            "Statistical Methods"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Specifications",
+            "Design Specifications"
+        ],
+        [
+            "Design Consultation",
+            "Product Consultation"
+        ],
+        [
+            "Packaging Consultation",
+            "Packaging Design",
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Activities",
+            "Promotional Coordination",
+            "Promotional Planning"
+        ],
+        [
+            "Trade Shows",
+            "Trade Show Participation",
+            "Trade Show Management",
+            "Trade Show Coordination"
+        ],
+        [
+            "Special Events",
+            "Event Planning",
+            "Event Coordination",
+            "Event Management"
+        ],
+        [
+            "Program Coordination",
+            "Program Management",
+            "Program Planning"
+        ],
+        [
+            "Contract Negotiation",
+            "Contract Management"
+        ],
+        [
+            "Distribution Networks",
+            "Distribution Strategies",
+            "Distribution Planning"
+        ],
+        [
+            "Transportation Contracts",
+            "Transportation Logistics"
+        ],
+        [
+            "Logistics Services",
+            "Logistics Coordination",
+            "Logistics Management"
+        ],
+        [
+            "Operational Documentation",
+            "Documentation Activities",
+            "Documentation Coordination",
+            "Documentation Management"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Proposal Preparation",
+            "Proposal Documentation",
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization",
+            "Task Tracking",
+            "Task Management"
+        ],
+        [
+            "Work Scheduling",
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation",
+            "Resource Management"
+        ],
+        [
+            "Customer Needs Assessment",
+            "Customer Needs"
+        ],
+        [
+            "Quality Standards",
+            "Service Principles",
+            "Service Standards",
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction",
+            "Customer Feedback"
+        ],
+        [
+            "Technical Tools",
+            "Project Management Tools",
+            "Project Tools"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Matrices",
+            "Responsibility Matrices",
+            "Compliance Management",
+            "Compliance Tools"
+        ],
+        [
+            "Business Information Systems",
+            "Business Systems"
+        ],
+        [
+            "Data Compilation",
+            "Technical Data Compilation",
+            "Data Gathering",
+            "Information Gathering"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Tests",
+            "Statistical Approaches",
+            "Statistical Methods"
+        ],
+        [
+            "Problem Solving",
+            "Problem Analysis"
+        ],
+        [
+            "Management Information",
+            "Management Data"
+        ],
+        [
+            "Operational Conceptualization",
+            "Operational Analysis",
+            "Operational Problems"
+        ],
+        [
+            "Product Marketing"
+        ],
+        [
+            "Advertising Coordination"
+        ],
+        [
+            "Production Management"
+        ],
+        [
+            "Event Planning",
+            "Event Management"
+        ],
+        [
+            "Sales Profitability"
+        ],
+        [
+            "Vendor Contracts",
+            "Vendor Management",
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Strategies",
+            "Distribution Planning"
+        ],
+        [
+            "Transportation Logistics"
+        ],
+        [
+            "Documentation Activities",
+            "Documentation Coordination",
+            "Documentation Management"
+        ],
+        [
+            "Project Results"
+        ],
+        [
+            "Customer Proposals"
+        ],
+        [
+            "Oral Presentations"
+        ],
+        [
+            "Written Proposals"
+        ],
+        [
+            "Guidance Provision"
+        ],
+        [
+            "Service Processes"
+        ],
+        [
+            "Customer Evaluation"
+        ],
+        [
+            "Judgment Application"
+        ],
+        [
+            "Mathematical Principles"
+        ],
+        [
+            "Applied Fields",
+            "Scientific Fields"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Product Design",
+            "Color Consultation",
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design",
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Activities",
+            "Promotional Coordination",
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Coordination",
+            "Trade Show Management"
+        ],
+        [
+            "Event Management",
+            "Event Planning"
+        ],
+        [
+            "Program Planning",
+            "Program Coordination"
+        ],
+        [
+            "Vendor Contracts",
+            "Vendor Management",
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Networks",
+            "Distribution Strategies",
+            "Distribution Planning"
+        ],
+        [
+            "Contract Management",
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Coordination",
+            "Logistics Management"
+        ],
+        [
+            "Documentation Coordination",
+            "Documentation Management"
+        ],
+        [
+            "Project Communication"
+        ],
+        [
+            "Task Tracking"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            "Service Standards"
+        ],
+        [
+            "Customer Feedback"
+        ],
+        [
+            "Project Management"
+        ],
+        [
+            "Project Schedules"
+        ],
+        [
+            "Compliance Management"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Compilation"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Model Validation"
+        ],
+        [
+            "Data Requirements"
+        ],
+        [
+            "Data Quality"
+        ],
+        [
+            "Statistical Methods"
+        ],
+        [
+            "Problem Analysis"
+        ],
+        [
+            "Management Information"
+        ],
+        [
+            "Operational Analysis"
+        ],
+        [
+            "Product Consultation"
+        ],
+        [
+            "Design Specifications"
+        ],
+        [
+            "Packaging Specifications"
+        ],
+        [
+            "Promotional Planning"
+        ],
+        [
+            "Trade Show Management"
+        ],
+        [
+            "Event Planning"
+        ],
+        [
+            "Program Coordination"
+        ],
+        [
+            "Vendor Negotiation"
+        ],
+        [
+            "Distribution Planning"
+        ],
+        [
+            "Contract Negotiation"
+        ],
+        [
+            "Logistics Management"
+        ],
+        [
+            "Documentation Management"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Writing"
+        ],
+        [
+            "Task Prioritization"
+        ],
+        [
+            "Work Scheduling"
+        ],
+        [
+            "Resource Management"
+        ],
+        [
+            "Employee Supervision"
+        ],
+        [
+            "Customer Needs"
+        ],
+        [
+            "Service Quality"
+        ],
+        [
+            "Customer Satisfaction"
+        ],
+        [
+            "Project Tools"
+        ],
+        [
+            "Project Plans"
+        ],
+        [
+            "Compliance Tools"
+        ],
+        [
+            "Business Systems"
+        ],
+        [
+            "Financial Systems"
+        ],
+        [
+            "Data Analysis"
+        ],
+        [
+            "Data Validation"
+        ],
+        [
+            "Statistical Analysis"
+        ],
+        [
+            "Problem Solving"
+        ],
+        [
+            "Management Data"
+        ],
+        [
+            "Operational Problems"
+        ],
+        [
+            "Product Design"
+        ],
+        [
+            "Color Specifications"
+        ],
+        [
+            "Packaging Design"
+        ],
+        [
+            "Promotional Activities"
+        ],
+        [
+            "Trade Show Coordination"
+        ],
+        [
+            "Event Management"
+        ],
+        [
+            "Program Planning"
+        ],
+        [
+            "Vendor Contracts"
+        ],
+        [
+            "Distribution Networks"
+        ],
+        [
+            "Contract Management"
+        ],
+        [
+            "Logistics Coordination"
+        ],
+        [
+            "Documentation Activities"
+        ],
+        [
+            "Project Reporting"
+        ],
+        [
+            "Communication Skills"
+        ],
+        [
+            "Proposal Preparation"
+        ],
+        [
+            "Task Management"
+        ],
+        [
+            "Work Assignment"
+        ],
+        [
+            "Resource Allocation"
+        ],
+        [
+            "Employee Management"
+        ],
+        [
+            "Customer Service"
+        ],
+        [
+            ""
+        ]
+    ]
+}
